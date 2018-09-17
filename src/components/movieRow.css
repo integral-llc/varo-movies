@@ -1,0 +1,11 @@
+span.favorite {
+    color: #222222;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+span.favorite.selected {
+    color: red;
+}
+
+
